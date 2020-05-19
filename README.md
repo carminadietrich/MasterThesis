@@ -3,3 +3,5 @@ The case study of the online consultation regarding the reduction of CO2 emmissi
 The data set was compliled by Klüver (2009).
 
 The labeled data set was compiled by Lee, Pincombe & Welsh (2005) and can be accessed here: https://webfiles.uci.edu/mdlee/LeePincombeWelsh.zip
+
+The GloVe files can be accessed here: https://nlp.stanford.edu/projects/glove
